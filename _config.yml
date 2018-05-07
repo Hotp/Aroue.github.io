@@ -13,7 +13,7 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    author:
+    author: Lee
 
 # Jekyll
 permalink:          /blog/:title/
