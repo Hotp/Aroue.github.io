@@ -12,7 +12,7 @@ sitemap:
 <span class="image left"><img src="{{ "/images/pic08.jpg" | absolute_url }}" alt="" /></span>
 
 I'm a twelve years old little girl，you can call me LeeNian.In the past decades, I have learned a lot of skills, such as eating, drinking, playing, sleeping and so on.I like to look out of the window occasionally, I like the quiet feeling, I like to see the outside world, to see the scenery along the way; I like to live free and free, think of the feeling of galloping horses on the grasslands.
-
+<br/>
 ### Something
 <div class="box">
 <span class="image left"><img src="{{ "/images/pic07.jpg" | absolute_url }}" alt="" /></span>
