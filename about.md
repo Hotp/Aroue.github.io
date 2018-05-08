@@ -15,6 +15,6 @@ I'm a twelve years old little girl，you can call me LeeNian.In the past decades
 <br/>
 ### Something
 <div class="box">
-<span class="image left"><img src="{{ "/images/pic07.jpg" | absolute_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/pic07.jpg" | absolute_url }}" alt="" /></span>
   Every atom in your body came from a star that exploded.And, the atoms in your left hand probably came from a different star than your right hand.It really is the most poetic thing I know about physics:You are all stardust.
 </div>
