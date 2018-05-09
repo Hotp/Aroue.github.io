@@ -14,5 +14,3 @@ image: "/images/pic09.jpg"
  
 生日快乐！
 ```
-![](/images/pic09.jpg)
- 
