@@ -6,11 +6,7 @@ excerpt: "Some blessings from your brother,happy birthday to you "
 image: "/images/pic09.jpg"
 ---
 
-## 万事顺意
+## 好久不见
 ```
-今年没有蛋糕，没有什么礼物，只有简单的祝福送你
- 
-未来的你永远十二
- 
-生日快乐！
+生日快乐！！！
 ```
